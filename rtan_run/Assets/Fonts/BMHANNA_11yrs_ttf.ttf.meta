@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 98b4ce47e4bbdaf489aae44d10901dc5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BM HANNA 11yrs old
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ce956d80be80fc04c9b3f824af70252a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
